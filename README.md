@@ -1,4 +1,4 @@
-# ⚡ Vexroxa (v2.0.1)
+# Vexroxa Tools
 
 > **Next-Gen Android Execution Engine**  
 > Vexroxa is a modular, fast, and powerful Android execution framework designed to automate and manage processes seamlessly — with or without root access.
@@ -49,4 +49,6 @@ Designed to be efficient, beautiful, and stable — blending performance with a 
 
 ---
 
-### 📜 License http://www.apache.org/licenses/LICENSE-2.0
+### 📜 License
+
+#### Apache-2.0 License
