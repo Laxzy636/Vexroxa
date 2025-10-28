@@ -49,6 +49,5 @@ Designed to be efficient, beautiful, and stable — blending performance with a 
 
 ---
 
-### 📜 License
-
-#### Apache-2.0 License
+## 📜 License
+Licensed under the [Apache License 2.0](LICENSE).
