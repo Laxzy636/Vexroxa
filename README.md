@@ -43,9 +43,9 @@ Designed to be efficient, beautiful, and stable — blending performance with a 
 - [x] Support Vulkan / OpenGL mode  
 - [x] Swipe gesture navigation  
 - [x] Crash fix on shell execution  
-- [ ] Plugin system for extensions  
-- [ ] Developer tools integration  
-- [ ] Built-in terminal module  
+- [x] Plugin system for extensions  
+- [x] Developer tools integration  
+- [x] Built-in terminal module  
 
 ---
 
